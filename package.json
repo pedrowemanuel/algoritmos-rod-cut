@@ -1,0 +1,19 @@
+{
+  "name": "algoritmos-rod-cut",
+  "version": "1.0.0",
+  "description": "Projeto prático da disciplina de Análise de algoritmos sobre comparação de algoritmos de resolução do problema \"Corte de Barras\".",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrowemanuel/algoritmos-rod-cut.git"
+  },
+  "author": "Pedro Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrowemanuel/algoritmos-rod-cut/issues"
+  },
+  "homepage": "https://github.com/pedrowemanuel/algoritmos-rod-cut#readme"
+}
